@@ -1,14 +1,4 @@
 {
-  "ok": false,
-  "upstream": "digikey",
-  "step": "token",
-  "status": 500,
-  "body": {
-    "ErrorResponseVersion": "3.0.0.0",
-    "StatusCode": 500,
-    "ErrorMessage": "Internal server error",
-    "ErrorDetails": "Error in API proxy",
-    "RequestId": "43aaa904-9c0d-4814-daaf-b7689044a16d",
-    "ValidationErrors": []
-  }
+  "TotalOrders": 0,
+  "Orders": []
 }
