@@ -1,4 +1,14 @@
 {
-  "TotalOrders": 0,
-  "Orders": []
+  "ok": false,
+  "upstream": "digikey",
+  "step": "orders",
+  "status": 400,
+  "body": {
+    "type": "https://tools.ietf.org/html/rfc7231#section-6.5.1",
+    "title": "Invalid Account ID",
+    "status": 400,
+    "detail": "Account ID must not be 0",
+    "instance": "",
+    "correlationId": "f8a1e3ef-6763-440c-9ce5-9c3372d1b177"
+  }
 }
