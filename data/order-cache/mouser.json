@@ -1,14 +1,5 @@
 {
   "Errors": [],
-  "NumberOfOrders": 1,
-  "OrderHistoryItems": [
-    {
-      "DateCreated": "2026-08-19T00:00:00",
-      "SalesOrderNumber": "281618585",
-      "WebOrderNumber": "40193197",
-      "PoNumber": "40193197",
-      "BuyerName": "CHIN-KUN WEN",
-      "OrderStatusDisplay": "Complete"
-    }
-  ]
+  "NumberOfOrders": 0,
+  "OrderHistoryItems": []
 }
